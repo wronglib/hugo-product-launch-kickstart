@@ -1,5 +1,5 @@
 ---
-header_brand: Monforte cunde
+header_brand: This is a serious business, Inc.
 header_tagline_paragraph: Yes, we are glad you made it here. In fact, the only emotion
   stronger than our gladness is our desire to tell you more about what we are building.
   Bright times lie ahead. Let's get into it!
